@@ -1,6 +1,3 @@
-//Unfinished
-
-
 class bankAccount {
   float lifetimeBankBalance;
   int accountNumber;
